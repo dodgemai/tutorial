@@ -1,0 +1,32 @@
+1
+//Set of operations: dubb[i]
+//Input of our model: the length of the array
+//Worst case: the only element in dubb[n] that satisfies our boolean is element n
+//T(n) = n
+//T e ON, since T(n) will forever match the function y = x
+
+2
+
+3
+//Set of operations: inputArray[i]
+//Input of our model: the length of the array
+//Worst case: relative to the length of the array, all cases are the same
+//T(n) = n^2
+//T e ON, since T(n) will be bound by y = x^2
+
+4
+
+5
+//Set of operations: arr1[i]
+//Input of our model: the length of the int arrays
+//Worst case: relative to the length of the array, all cases are the same
+//T(n) = n+2
+//T e ON, since T(n) will be bound by y = x
+
+//In this case, the only variables we create are arr1, arr2 and arr3, the latter of which calls
+//interleave on the lengths of arr1 and arr2. Throughout these processes, i, j and k are all
+//created, however they do not scale to the size of the input. Therefore, the equation
+//can be written as T(n) = n + n + 3 with a bound of y=x.
+
+//Comparing the two, they just so happen to be the same in this case, however in most cases I imagine
+//that the space complexity is the lower bound on time complexity. 

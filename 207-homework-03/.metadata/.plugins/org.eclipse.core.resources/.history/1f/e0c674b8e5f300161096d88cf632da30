@@ -1,0 +1,34 @@
+
+public class Problem3 {
+	
+	public static Pair[] allPairs(int[] inputArray){
+		Pair[] pairArray = new Pair[(inputArray.length*inputArray.length)];
+		
+		if(inputArray == null){throw new IllegalArgumentException("the integer array is empty");}
+		
+		for(int i = 0; i < inputArray.length; i++){
+			for(int j = 0; j < inputArray.length; j++){ 
+				while(i == 0){pairArray[j] = new Pair(inputArray[i], inputArray[j]);}
+				pairArray[(i*inputArray.length) + j] = new Pair(inputArray[i], inputArray[j]);
+			}		
+		}
+		return pairArray;
+	}
+	
+	
+	
+	public static void main(String[] args){
+		int[] inputArray = {1,2,3,4,5};
+		Pair[] to_print = allPairs(inputArray);
+		for (int i = 0; i < to_print.length; i++) {
+			String s = to_print[i].toString();
+			System.out.println(s); 
+		}
+	}
+}
+
+//Set of operations: inputArray[i]
+//Input of our model: the length of the array
+//Worst case: relative to the length of the array, all cases are the same
+//T(n) = n^2
+//T e ON, since T(n) will be bound by y = x^2

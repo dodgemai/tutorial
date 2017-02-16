@@ -1,0 +1,23 @@
+
+public class Problem3 {
+	
+	public static boolean contains(double[] dubb, double eps, double d1) {
+		for(int i = 0; i < dubb.length; i++){
+			if(Math.abs(d1 - dubb[i]) < eps){
+				return true;}}
+			return false;
+	}		
+	
+	public static void main(String[] args){
+		double[] dubb = {1.0,2.0,3.0,4.0,5.0};
+		double eps = 2.0;
+		double d1 = 1.0;
+		
+		System.out.println(contains(dubb, eps, d1));		
+	}
+}
+//Set of operations: dubb[i]
+//Input of our model: the length of the array
+//Worst case: the only element in dubb[n] that satisfies our boolean is element n
+//T(n) = n
+//T e ON, since T(n) will forever match the function y = x

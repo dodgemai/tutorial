@@ -1,0 +1,28 @@
+
+public class Problem4 {
+
+	public static String concatAndReplicateAll(String arr[], int n){
+		String newstr = new String("");
+		int newn = n;
+		int count = 0;
+		int staticn = n + count;
+		System.out.println(staticn);
+		
+		if (newn == 0){
+			return newstr;
+		}
+		else {
+			for (int i = 0; i < staticn; i++){
+				newstr = newstr + arr[staticn - newn];
+			}
+			count++;
+			return newstr + concatAndReplicateAll (arr, newn - 1);
+		}
+	}
+	
+	public static void main(String[] args) {
+		String myarr[] = {"hello", "world", "!"};
+		System.out.println (concatAndReplicateAll(myarr, 3));
+	}
+
+}

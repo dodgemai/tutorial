@@ -1,0 +1,16 @@
+
+public class Problem4 {
+
+	public static String concatAndReplicateAll(String arr[], int n){
+		String newstr = new String("");
+		if (n == 0){
+			return newstr;
+		}
+		else concatAndRepli
+	}
+	
+	public static void main(String[] args) {
+
+	}
+
+}

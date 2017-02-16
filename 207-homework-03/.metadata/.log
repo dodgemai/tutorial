@@ -1,0 +1,114 @@
+!SESSION 2017-02-13 19:09:09.693 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-13 19:09:11.676
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/plugins/org.eclipse.sdk_3.8.1.dist.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-13 19:09:11.678
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.cvs.source_1.3.200.dist-7B79FJJ9exZ_.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-13 19:09:11.679
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.jdt.source_3.8.1.dist-8-8nFqrFFgQGJ.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-13 19:09:11.680
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.pde.source_3.8.1.dist-7c7vFiyFALX8A.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-13 19:09:11.680
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.rcp.source_3.8.1.dist-8LA2GODFTJUDJ21934.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-13 19:09:11.681
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.sdk_3.8.1.dist-7Q85DOBoMDElVYJXaEcz0e0aY6Tnt0Ra0eDROJ9IBeOgk.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-13 19:09:11.682
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.help.source_1.4.1.dist-8v7oFRvFCmSPZkILLj597H.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-13 19:09:11.682
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.platform.source_3.8.1.dist-A8F8_IVSG4VZSDmg7oLVfBs5JohYFyJZcMPL9.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-13 19:09:11.683
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.pde_3.8.1.dist-7c7vFiyFALX8A.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-13 19:09:11.684
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.equinox.p2.user.ui.source_2.2.0.dist-62DG8ltB_LdNsDxGEh7m9FbLOK8.
+!SESSION 2017-02-14 19:08:12.315 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-14 19:08:13.602
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/plugins/org.eclipse.sdk_3.8.1.dist.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-14 19:08:13.603
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.cvs.source_1.3.200.dist-7B79FJJ9exZ_.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-14 19:08:13.604
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.jdt.source_3.8.1.dist-8-8nFqrFFgQGJ.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-14 19:08:13.604
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.pde.source_3.8.1.dist-7c7vFiyFALX8A.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-14 19:08:13.605
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.rcp.source_3.8.1.dist-8LA2GODFTJUDJ21934.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-14 19:08:13.605
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.sdk_3.8.1.dist-7Q85DOBoMDElVYJXaEcz0e0aY6Tnt0Ra0eDROJ9IBeOgk.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-14 19:08:13.606
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.help.source_1.4.1.dist-8v7oFRvFCmSPZkILLj597H.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-14 19:08:13.607
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.platform.source_3.8.1.dist-A8F8_IVSG4VZSDmg7oLVfBs5JohYFyJZcMPL9.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-14 19:08:13.608
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.pde_3.8.1.dist-7c7vFiyFALX8A.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-14 19:08:13.609
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.equinox.p2.user.ui.source_2.2.0.dist-62DG8ltB_LdNsDxGEh7m9FbLOK8.
+!SESSION 2017-02-15 18:55:59.369 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-15 18:56:00.662
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/plugins/org.eclipse.sdk_3.8.1.dist.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-15 18:56:00.663
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.cvs.source_1.3.200.dist-7B79FJJ9exZ_.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-15 18:56:00.664
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.jdt.source_3.8.1.dist-8-8nFqrFFgQGJ.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-15 18:56:00.664
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.pde.source_3.8.1.dist-7c7vFiyFALX8A.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-15 18:56:00.665
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.rcp.source_3.8.1.dist-8LA2GODFTJUDJ21934.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-15 18:56:00.665
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.sdk_3.8.1.dist-7Q85DOBoMDElVYJXaEcz0e0aY6Tnt0Ra0eDROJ9IBeOgk.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-15 18:56:00.666
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.help.source_1.4.1.dist-8v7oFRvFCmSPZkILLj597H.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-15 18:56:00.667
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.platform.source_3.8.1.dist-A8F8_IVSG4VZSDmg7oLVfBs5JohYFyJZcMPL9.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-15 18:56:00.667
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.pde_3.8.1.dist-7c7vFiyFALX8A.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-02-15 18:56:00.668
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/share/eclipse/dropins/sdk/features/org.eclipse.equinox.p2.user.ui.source_2.2.0.dist-62DG8ltB_LdNsDxGEh7m9FbLOK8.
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-02-15 18:56:06.602
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.

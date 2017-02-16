@@ -1,0 +1,48 @@
+
+public class Problem2 {
+
+
+	public static double fastExp(int x, int y){
+		int x_pow = 1;
+		int y_pow = y;
+				
+		if (y % 2 == 0){
+			if (y == 0){
+				return 1;
+			}
+			if (y_pow == 0){
+				return x_pow;
+			}
+			if (y < 0){
+				x_pow = (x_pow * x);
+				return 1 / (x * fastExp(x, -(y_pow + 1)));
+			}
+			else {
+				x_pow = (x_pow * x);
+				return x_pow * fastExp(x, (y_pow - 1));
+			}
+		}
+		else{
+			if (y == 1){
+				return x;
+			}
+			if (y_pow == 0){
+				return x_pow;
+			}
+			if (y < 0){
+				x_pow = (x_pow * x);
+				return 1 / (x * fastExp(x, -(y_pow + 1)));
+			}
+			else{
+				x_pow = (x_pow * x);
+				return x_pow * fastExp(x, (y_pow - 1));
+				}
+			
+			}
+		}
+	
+	public static void main(String[] args) {
+		System.out.println (fastExp(2, 1));
+	}
+}
+

@@ -1,0 +1,19 @@
+
+public class Problem4 {
+
+	public static String concatAndReplicateAll(String arr[], int n){
+		String newstr = new String("");
+		for (int i = 0; i < arr.length; i++){
+			for(int j = 0; j < n; j++){
+				newstr = newstr + arr[i];
+			}
+		}
+		return newstr;
+	}
+
+	public static void main(String[] args) {
+		String myarr[] = {"hello", "world", "!"};
+		System.out.println (concatAndReplicateAll(myarr, 3));
+	}
+
+}
